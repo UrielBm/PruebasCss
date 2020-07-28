@@ -1,0 +1,143 @@
+.diseño-index{
+    text-align: center;
+    background-color: white;
+    color: #6728db;
+}
+.Navegacion{
+    text-align: center;
+    color: #ffffff;
+    list-style: none;
+}
+.redes-sociales{
+    width: 30px;
+    padding: 5px;
+}
+.Diseño-justificado{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    justify-content: center;
+    text-align: justify;
+    margin: 7%;
+}
+.imagen-centrada{
+    text-align: center;
+}
+.Titulo{
+    text-align: center;
+    font-size: 60px;
+}
+a{
+    font-weight: bold;
+}
+.contenedor{
+    background-color:#ebecf1;
+    padding:5%;
+    margin-bottom: 3%;
+}
+.negritas{
+    font-weight: bold;
+}
+.imagen{
+    width: 5%;
+}
+.cono {
+    width: 0px;
+    height: 0px;
+    border-right: 50px solid transparent;
+    border-left: 50px solid transparent;
+    border-top: 60px solid #6728db;
+    border-radius: 70%;
+    margin-top: -3%;
+}
+
+/*--------------------------------------Segunda Página----------------------*/
+.base{
+    background-color: #e4e3e3;
+    margin-left: 20%;
+    margin-right: 20%;
+    min-height: 150vh;
+}
+.Card{
+    background-color: #ffffff; 
+    padding: 5%;  
+    margin-left: -5%;
+    margin-bottom: 5%;
+    margin-top: 3%;
+}
+.Card-Autor{
+    display: flex;
+    align-items: center;
+}
+.Autor{
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.Puesto{
+    margin-top: -20%;
+}
+
+/*---------------------------------------Ultima imagen------------------------*/ 
+.margen{
+    margin-top: 5%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.Subtitulo{
+    text-align: center;
+    font-size: 25px;
+}
+.listas{
+    list-style: none;
+}
+.Contenedor-imagenes{
+    background-color: #f09ae9;
+    padding: 10%;
+    display: flex;
+    justify-content: center;
+}
+.Contenedor-listas{
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    padding: 5px;
+}
+.icon{
+    width:15px;
+    padding-right: 5px;
+}
+.boton{
+    background-color: #be5683;
+    border-style: none;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    width: 20%;
+    margin-bottom: 2%;
+}
+.imagen1{
+    width: 15%;
+}
+.imagen2{
+    width: 15%;
+    margin-left:-5%;
+    margin-top: -1%;
+    transform: rotate(-40deg);
+}
+.imagen3{
+    width: 15%;
+    margin-left: -5%;
+    margin-top: -8%;
+    transform: rotate(-35deg);
+}
+.imagen4{
+    width: 17%;
+    margin-left: -6%;
+    margin-top: -20%;
+    transform: rotate(-35deg);
+}
